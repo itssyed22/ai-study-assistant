@@ -15,4 +15,9 @@ An AI-powered study companion that turns raw notes into summaries, quiz question
 - Groq API (LLaMA 3.3 inference)
 
 ## Setup
-1. Clone the repo
+1. Clone the 
+
+## How It Works
+1. Paste your notes into the text box
+2. Click "Generate"
+3. View your summary, quiz questions, and ask follow-up questions
